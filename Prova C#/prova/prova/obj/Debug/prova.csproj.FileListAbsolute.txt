@@ -1,0 +1,10 @@
+C:\Users\1050481813029\source\repos\prova\prova\bin\Debug\prova.exe.config
+C:\Users\1050481813029\source\repos\prova\prova\bin\Debug\prova.exe
+C:\Users\1050481813029\source\repos\prova\prova\bin\Debug\prova.pdb
+C:\Users\1050481813029\source\repos\prova\prova\obj\Debug\prova.csprojAssemblyReference.cache
+C:\Users\1050481813029\source\repos\prova\prova\obj\Debug\prova.Form1.resources
+C:\Users\1050481813029\source\repos\prova\prova\obj\Debug\prova.Properties.Resources.resources
+C:\Users\1050481813029\source\repos\prova\prova\obj\Debug\prova.csproj.GenerateResource.cache
+C:\Users\1050481813029\source\repos\prova\prova\obj\Debug\prova.csproj.CoreCompileInputs.cache
+C:\Users\1050481813029\source\repos\prova\prova\obj\Debug\prova.exe
+C:\Users\1050481813029\source\repos\prova\prova\obj\Debug\prova.pdb
